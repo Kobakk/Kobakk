@@ -1,5 +1,7 @@
-![Alt Text](https://media.tenor.com/EERXjdAqkUEAAAAM/cat-cat-watchin.gif)
-# Hello world 👋 
+<p align="center">
+![Alt Text](https://media.tenor.com/EERXjdAqkUEAAAAM/cat-cat-watchin.gif) 
+</p>
+### Hello world 👋 
 Can you chek my page [startpage](https://kobakk.github.io/) 
 <br>
 ![](https://moe-counter.glitch.me/get/@NotTacoz)
