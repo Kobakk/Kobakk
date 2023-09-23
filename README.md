@@ -1,5 +1,7 @@
-### Hi 👋
+### Hello world 👋 
 ![Alt Text](https://media.tenor.com/EERXjdAqkUEAAAAM/cat-cat-watchin.gif)
+Can you chek my page [startpage](https://kobakk.github.io/) 
+![](https://moe-counter.glitch.me/get/@NotTacoz)
 <!--
 **Kobakk/Kobakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
