@@ -4,7 +4,8 @@
 ### Hello world 👋 
 ![Alt Text](https://media.tenor.com/EERXjdAqkUEAAAAM/cat-cat-watchin.gif) 
 <br>
-Can you chek my page [startpage](https://kobakk.github.io/StartPage/startpage.html) 
+Check my epic startpage [startpage](https://kobakk.github.io/StartPage/startpage.html)
+and epic notes [notes](https://quartz.jzhao.xyz/)
 <br>
 ### About me ☘️
 - 💬 Ask me about **Linux** , **Bash**, **Hardware**
