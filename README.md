@@ -2,11 +2,7 @@
 
 
 ### Hello world 👋 
-![Alt Text](https://media.tenor.com/EERXjdAqkUEAAAAM/cat-cat-watchin.gif) 
-<br>
-Check my epic startpage [startpage](https://kobakk.github.io/StartPage/startpage.html)
-and epic notes [notes](https://quartz.jzhao.xyz/)
-<br>
+Check my epic startpage [startpage](https://kobakk.github.io/StartPage/startpage.htm)
 ### About me ☘️
 - 💬 Ask me about **Linux** , **Bash**, **Hardware**
 - 🌱 I’m currently learning  **PHP**, **JavaScript**, **Web Desing**
