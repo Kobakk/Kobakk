@@ -2,7 +2,7 @@
 
 
 ### Hello world 👋 
-Check my epic startpage [startpage](https://kobakk.github.io/StartPage/startpage.htm)
+Check my epic startpage [startpage](https://kobakk.github.io)
 ---
 
 
