@@ -3,10 +3,6 @@
 
 ### Hello world 👋 
 Check my epic startpage [startpage](https://kobakk.github.io/StartPage/startpage.htm)
-### About me ☘️
-- 💬 Ask me about **Linux** , **Bash**, **Hardware**
-- 🌱 I’m currently learning  **PHP**, **JavaScript**, **Web Desing**
-  
 ---
 
 
