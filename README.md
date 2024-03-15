@@ -1,10 +1,9 @@
 # Hello world 👋 
-Can you chek my webpage[startpage](https://kobakk.github.io)
+Can you chek my webpage [startpage](https://kobakk.github.io)
 ---
 
 
 
----
 
 <!--
 **Kobakk/Kobakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
