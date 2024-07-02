@@ -1,6 +1,6 @@
-# Hello world 👋 
+# 👋 Hello world  🌍
 
-Can you chek my webpage [startpage](https://kobakk.github.io/Portafolio) 🌱 
+Can you chek my webpage [portafolio](https://sevdev.xyz/) 🤖 . 
 
 
 
